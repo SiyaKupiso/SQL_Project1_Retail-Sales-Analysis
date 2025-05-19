@@ -107,7 +107,7 @@ GROUP BY category;
 ```sql
 SELECT *
 FROM retail_sales
-WHERE total_sale > 1000
+WHERE total_sale > 1000;
 ```
 
 6. **Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.**:
